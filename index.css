@@ -1,0 +1,28 @@
+/*basic reset*/
+*{
+	padding: 0;
+	margin: 0;
+}
+body {
+	box-sizing: border-box;
+	padding: 3rem;
+}
+#tic-tac {
+	position: relative;
+	background: ;
+	height: 85vh;
+}
+#tic-tac-holder {
+	display: none;
+	position: absolute;
+	top: 40%;
+	right: 50%;
+	transform: translate(15rem,-4rem);
+}
+table, th, td {
+  border: 2px solid #ccc;
+  border-collapse: collapse;
+}
+td {
+	padding: 4.5rem;
+}
