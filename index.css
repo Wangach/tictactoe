@@ -9,7 +9,6 @@ body {
 }
 #tic-tac {
 	position: relative;
-	background: ;
 	height: 85vh;
 }
 #tic-tac-holder {
@@ -25,4 +24,10 @@ table, th, td {
 }
 td {
 	padding: 4.5rem;
+}
+.myExes {
+	color: #ff0000;
+}
+.myOhs {
+	color: #000;
 }
